@@ -20,7 +20,7 @@ body {
 
 /* HEADER */
 header {
-  background: #0f172a;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./sam.jpeg') top/contain no-repeat;
   color: white;
   padding: 100px 0;
   text-align: center;
